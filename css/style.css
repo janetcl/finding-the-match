@@ -46,6 +46,12 @@ main {
   align-self: center;
 }
 
+.nav-bar-logo {
+  max-width: 3.5%;
+  height: auto;
+  padding-right: 2px;
+}
+
 .hello {
   font-family: 'brian_straitregular';
   font-weight: normal;
