@@ -39,6 +39,13 @@ main {
   flex: 1 0 auto;
 }
 
+.main-logo {
+  max-width: 20%;
+  height: auto;
+  align-content: center;
+  align-self: center;
+}
+
 .hello {
   font-family: 'brian_straitregular';
   font-weight: normal;
